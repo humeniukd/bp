@@ -1,0 +1,16 @@
+table {
+  width: 100%;
+  min-width: 960px;
+}
+
+.mat-radio-button ~ .mat-radio-button {
+  margin-left: 16px;
+}
+
+.flex {
+  display: flex;
+}
+
+.prices-header {
+  justify-content: space-between;
+}
